@@ -2,6 +2,6 @@
 
 echo "Hello World "
 
-echo" Running this for user input"
+echo "running this for user input"
 
 
