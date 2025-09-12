@@ -2,6 +2,7 @@
 
 echo "Hello World "
 
-echo "running this for user input"
+echo "new build "
+
 
 
