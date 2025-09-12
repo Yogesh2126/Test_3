@@ -6,4 +6,6 @@ echo "new build "
 
 echo "new build of sequential build "
 
+echo "updating values of job 3 "
+
 
