@@ -8,4 +8,6 @@ echo "new build of sequential build "
 
 echo "updating values of job 3 "
 
+echo "parallel build "
+
 
